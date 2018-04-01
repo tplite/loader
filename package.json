@@ -1,0 +1,20 @@
+{
+  "name": "tplite-loader",
+  "version": "1.0.0",
+  "description": "webpack loader for tplite template.",
+  "main": "loader.js",
+  "author": {
+    "name": "lloydzhou",
+    "email": "lloydzhou@qq.com"
+  },
+  "keywords": [
+    "Webpack",
+	"Loader",
+	"tplite"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tplite/loader"
+  },
+  "readmeFilename": "README"
+}
